@@ -32,7 +32,7 @@ public class OOCHW3 {
            // A while to read all the lines an right after calling array list to add the lines  
             while ((line = myBR.readLine()) != null) { 
                 members.add(line);
-                // If statement to do a limit on the array, 5 persons per time and ++ to keep counting 
+                // If statement to do a limit on the array, 5 persons per team and ++ to keep counting 
                 if (members.size() == 5) {
                     teams.put("Team" + teamNum, new ArrayList<>(members));
                     // The members.clear() do not let repeat a person and make sure it is just 5  
