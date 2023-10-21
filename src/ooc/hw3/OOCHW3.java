@@ -12,6 +12,9 @@ public class OOCHW3 {
     /**
      * Student number: 2022236 
      * I got inspiration from Sam and Ken to do few parts of the code.
+     * I also had a problem because I still learning to commit, make a repository, so I did wrong the name 
+     * could not find on Github. I figured it out but I do not have all the commits from when I was 
+     * structuring the code. My apologies. 
      * Github link https://github.com/2022236/HW3OOC
      * @param args
      */
